@@ -251,7 +251,7 @@ Open your terminal application and check if an agent is running:
   >
   > The syntax of this SSH Agent command is unusual, based on what we've seen
   > in the UNIX Shell lesson. This is because the `ssh-agent` command creates
-  > opens a connection that only you have access to, and prints a series of
+  > and opens a connection that only you have access to and prints a series of
   > shell commands that can be used to reach it -- but _does not execute them!_
   >
   > ```
