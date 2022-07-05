@@ -107,7 +107,7 @@ upgrade your OS.
 ## Nodes
 
 Individual computers that compose a cluster are typically called _nodes_
-(although you will also hear people call them _servers_, _computers_ and
+(although you will also hear people call them _servers_, _computers_, and
 _machines_). On a cluster, there are different types of nodes for different
 types of tasks. The node where you are right now is called the _login node_,
 _head node_, _landing pad_, or _submit node_. A login node serves as an access
